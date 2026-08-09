@@ -4,5 +4,6 @@ export default function App(){
   
   <h2>Hello! CICD pipeline</h2>
   <p>Second CI Test</p>
+  <p>Third CD test</p>
   </>)
 }
